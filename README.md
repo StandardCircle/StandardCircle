@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=StandardCircle&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Hi!%20I'm%20StandardCircle!&fontSize=70&animation=fadeIn)
 
 <h3 align = "center"> 😄 About me 😄 </h3>
 
