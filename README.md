@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=StandardCircle&fontSize=90&animation=fadeIn)
+
+<h3 align = "center"> ⚡Tech Stack ⚡ </h3>
