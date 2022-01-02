@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 </p>
 
   
-<h3 align="center">📚 Tech Stack 📚</h3>
-<h3 align="center">📚 Platforms & Languages 📚</h3>
+<h3 align="center">📚 # Tech Stack 📚</h3>
+<h3 align="center"> Platforms & Languages </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
